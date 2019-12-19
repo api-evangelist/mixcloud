@@ -1,0 +1,79 @@
+{
+    "name": "Mixcloud",
+    "description": "Listen to the best DJs and radio presenters in the world for free.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/227-mixcloud.jpg",
+    "tags": [
+        "api provider",
+        "broadcasts",
+        "have api",
+        "music",
+        "radio"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mixcloud\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mixcloud",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/227-mixcloud.jpg",
+            "humanURL": "http:\/\/www.mixcloud.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mixcloud-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mixcloud-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.mixcloud.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mixcloud.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mixcloud.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mixcloud"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mixcloud"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.mixcloud.com\/developers\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/mixcloud"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.mixcloud.com\/premium\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mixcloud"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mixcloud.com\/"
+        }
+    ]
+}
