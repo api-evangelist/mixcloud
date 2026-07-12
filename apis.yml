@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://www.mixcloud.com/developers/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/mixcloud-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/mixcloud-domain-security.yml
   - type: Website
     url: https://www.mixcloud.com/developers/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://www.mixcloud.com/blog/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
