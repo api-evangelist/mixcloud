@@ -39,7 +39,6 @@ apis:
   - name: Mixcloud
     description: "Music"
     humanURL: https://www.mixcloud.com/developers/
-    baseURL: https://www.mixcloud.com/developers/
     tags:
       - Music
     properties:
